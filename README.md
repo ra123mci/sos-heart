@@ -14,20 +14,41 @@
 Projet de devellopement d'un interface de gestion de la relation client hopital, avec quelques fonctionalité de bases 
 
 ### Fonctionalité de base
+- **Se connecter**
+Etapes : 0 sur 4
+- **Espace profil**
+Etapes : 0 sur 3
+- **Rendez-vous**
+Etapes : 0 sur 4
+- **Annonces ou news**
+Etapes : 0 sur 1
+- **Diagnostic**
+Etapes : 0 sur 1
+- **Trouver un hôpital (localiser)**
+Etapes : 0 sur 1
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## Teste et demmarage
+
+#### Installation des dependances composer : 
+```bash
+composer install
+```
+
+#### Installation des assets npm : 
+```bash
+npm install
+```
+
+#### Demmarage de l'application : 
+Mode de develloppement
+```bash
+npm run dev
+```
+
+Mode de production
+```bash
+npm run build
+```
 
 ## License
 
